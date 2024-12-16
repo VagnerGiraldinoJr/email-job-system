@@ -12,6 +12,7 @@
 # Email Job System
 
 Este projeto Laravel demonstra como configurar e utilizar o envio de e-mails de forma assíncrona usando **Jobs**, **Queues** e o **Laravel Scheduler**.
+Para este projeto, utilizamos o https://mailtrap.io/ para validar a caixa de emails fake;
 
 ---
 
